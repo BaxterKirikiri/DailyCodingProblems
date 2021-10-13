@@ -21,3 +21,27 @@ For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 Bonus: Can you do this in one pass?
 
 [Solution](https://codesandbox.io/s/daily-coding-002-tk8y3)
+
+## Problem 003
+
+### Tower of Hanoi
+
+There are three towers. The objective of the game is to move all the disks over to tower #3, but you can't place a larger disk onto a smaller disk. To play the game or learn more about the Tower of Hanoi, check the Resources tab.
+
+Create a function that takes a number discs as an argument and returns the minimum amount of steps needed to complete the game.
+
+### Examples
+
+towerHanoi(3) ➞ 7
+
+towerHanoi(5) ➞ 31
+
+towerHanoi(0) ➞ 0
+
+### Notes
+
+The amount of discs is always a positive integer.
+
+1 disc can be changed per move.
+
+[Solution](https://codesandbox.io/s/daily-coding-003-tucn6)
