@@ -45,3 +45,18 @@ The amount of discs is always a positive integer.
 1 disc can be changed per move.
 
 [Solution](https://codesandbox.io/s/daily-coding-003-tucn6)
+
+## Problem 004
+
+Create a function which returns the number of true values there are in an array.
+
+### Examples
+
+countTrue([true, false, false, true, false]) ➞ 2
+
+countTrue([false, false, false, false]) ➞ 0
+
+countTrue([]) ➞ 0
+
+[Solution](https://codesandbox.io/s/daily-coding-004-xfe6m)
+
