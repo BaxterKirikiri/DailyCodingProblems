@@ -1,6 +1,6 @@
 # DailyCodingProblems
 
-A collection of coding problems I have completed in code sandbox
+A collection of coding problems I have completed in code sandbox. Each sandbox has its own tests, to tests the solutions written in index.js.
 
 ## Problem 001
 
@@ -60,3 +60,12 @@ countTrue([]) ➞ 0
 
 [Solution](https://codesandbox.io/s/daily-coding-004-xfe6m)
 
+## Problem 005
+
+Given an array of integers, find the first missing positive integer in linear time and constant space. In other words, find the lowest positive integer that does not exist in the array. The array can contain duplicates and negative numbers as well.
+
+For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should give 3.
+
+You can modify the input array in-place.
+
+[Solution](https://codesandbox.io/s/daily-coding-005-kl9sd)
