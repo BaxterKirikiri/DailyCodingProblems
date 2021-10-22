@@ -69,3 +69,13 @@ For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should g
 You can modify the input array in-place.
 
 [Solution](https://codesandbox.io/s/daily-coding-005-kl9sd) (was not able to complete in linear time)
+
+## Problem 006
+
+Implement an autocomplete system. That is, given a query string s and a set of all possible query strings, return all strings in the set that have s as a prefix.
+
+For example, given the query string de and the set of strings [dog, deer, deal], return [deer, deal].
+
+Hint: Try preprocessing the dictionary into a more efficient data structure to speed up queries.
+
+[Solution](https://codesandbox.io/s/daily-coding-006-4x3y0)
